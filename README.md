@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anu Krishna H S</h1>
+8<h1 align="center">Hi 👋, I'm Anu Krishna H S</h1>
 
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **python**
 
 
 <h3 align="left">Languages and Tools:</h3>
